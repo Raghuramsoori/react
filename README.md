@@ -1,14 +1,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-# React Playground
+ repository for learning git and react
 
 This is the React handson playground
 
-## To use
+ To use
 
 There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:
 
-#To run this example Node needs to be installed
+To run this example Node needs to be installed
 npm install
 node server.js
 ```
@@ -16,9 +15,9 @@ node server.js
 
 
 
-## Environmental  port variable
+ Environmental  port variable
 
 You can change the port number by setting the `$PORT` environment variable before invoking any of the scripts above, e.g.,
-##example
+example
 PORT=3001 node server.js
 
